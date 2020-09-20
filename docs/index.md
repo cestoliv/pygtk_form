@@ -8,7 +8,7 @@ Create forms very easily for your python scripts with GTK !
   * [Installation](installation.md)
   * [Hello World!](hello_world.md)
 - [Forms](forms/index.md)
-  * [Fields](forms/index.md)
+  * [Fields](forms/index.md#fields)
     + [ColorChooserField](forms/index.md#colorchooserfield)
     + [ComboboxField](forms/index.md#comboboxfield)
     + [FileChooserField](forms/index.md#filechooserfield)
