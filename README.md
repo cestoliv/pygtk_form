@@ -9,6 +9,10 @@ Just call a function, with the data you want to recover, and a callback!
 Install the module with:
 
 	pip install pygtk_form
+	
+## Read the documentation please!
+In addition, it takes time to write ...
+[The documentation in question](https://cestoliv.github.io/pygtk_form/)
 
 ## Example
 ![pygtk_form examples](https://raw.githubusercontent.com/cestoliv/pygtk_form/main/images/cool_form.png)
