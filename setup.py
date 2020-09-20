@@ -11,7 +11,7 @@ setuptools.setup(
     description="Create forms very easily for your scripts with GTK !",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/cestoliv/pygtk_form",
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
     install_requires=[
