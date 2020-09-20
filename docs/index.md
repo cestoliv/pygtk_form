@@ -1,7 +1,7 @@
 # PYGTK FORM
 Create forms very easily for your python scripts with GTK ! 
 
-![pygtk_form demo](https://github.com/cestoliv/pygtk_form/blob/main/images/presentation.png)
+![pygtk_form demo](https://github.com/cestoliv/pygtk_form/raw/main/images/presentation.png)
 
 ## Table of contents
 - Getting started
