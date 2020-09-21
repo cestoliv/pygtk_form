@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pygtk-form",
-    version="0.0.2",
+    version="0.0.3",
     author="Olivier Cartier",
     author_email="cestoliv@chevro.fr",
     description="Create forms very easily for your scripts with GTK !",
@@ -16,5 +16,6 @@ setuptools.setup(
     python_requires='>=3.6',
     install_requires=[
 
-    ]
+    ],
+    include_package_data = True
 )
